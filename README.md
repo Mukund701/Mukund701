@@ -1,5 +1,5 @@
 ![My GitHub Banner](https://github.com/Mukund701/Mukund701/blob/main/Mukund701.png?raw=true)
-###👋 Hi, I’m Bal Mukund Sharma
+👋 Hi, I’m Bal Mukund Sharma
 
 I am a Computer Science student with a specialization in full-stack development. I have a proven ability to design, build, and deploy scalable web applications using modern technologies like Next.js, TypeScript, and Node.js. I am passionate about applying my foundation in software engineering principles to solve real-world challenges and am actively seeking a full-time Software Development Engineer (SDE) role.
 
