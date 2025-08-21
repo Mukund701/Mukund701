@@ -1,5 +1,6 @@
 ![My GitHub Banner](https://github.com/Mukund701/Mukund701/blob/main/Mukund701.png?raw=true)
-👋 Hi, I’m Bal Mukund Sharma
+
+### 👋 Hi, I’m Bal Mukund Sharma
 
 I am a Computer Science student with a specialization in full-stack development. I have a proven ability to design, build, and deploy scalable web applications using modern technologies like Next.js, TypeScript, and Node.js. I am passionate about applying my foundation in software engineering principles to solve real-world challenges and am actively seeking a full-time Software Development Engineer (SDE) role.
 
@@ -33,7 +34,7 @@ I am a Computer Science student with a specialization in full-stack development.
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
   </a>
-   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
